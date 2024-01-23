@@ -1,4 +1,5 @@
-Tx3 is Tic Tac Toe game made in Python-eel, using html, CSS and JavaScript for front-end
+This is simple calculator made in Python-eel, using html, CSS and JavaScript for front-end
+It can perform (sum, subtraction, multiplication, division, power, under-root to any power)
 
 [Requirements]
 Python 3
